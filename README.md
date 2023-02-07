@@ -19,3 +19,7 @@ Transaction:
 
 Block:
 ![An image shows a block.](Images/blocks.jpg)
+
+
+App:
+![An image shows a block.](Images/app.jpg)
