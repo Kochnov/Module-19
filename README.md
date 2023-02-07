@@ -12,10 +12,10 @@ In this Challenge, we will complete the code that enables our customers to send 
 ## Submission
 
 Balance:
-![An image shows a wallet balance.](Images/balance.jpeg)
+![An image shows a wallet balance.](Images/balance.jpg)
 
 Transaction:
-![An image shows a transaction.](Images/transaction.jpeg)
+![An image shows a transaction.](Images/transaction.jpg)
 
 Block:
-![An image shows a block.](Images/block.jpeg)
+![An image shows a block.](Images/block.jpg)
