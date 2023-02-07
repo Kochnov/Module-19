@@ -18,4 +18,4 @@ Transaction:
 ![An image shows a transaction.](Images/transaction.jpg)
 
 Block:
-![An image shows a block.](Images/block.jpg)
+![An image shows a block.](Images/blocks.jpg)
